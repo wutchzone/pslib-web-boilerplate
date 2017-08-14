@@ -1,0 +1,22 @@
+{
+  "name": "pslib-web-boilerplate",
+  "version": "1.0.0",
+  "description": "This repository cointains starting boilerplate for developing web applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wutchzone/pslib-web-boilerplate.git"
+  },
+  "author": "Daniel Sedlak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wutchzone/pslib-web-boilerplate/issues"
+  },
+  "homepage": "https://github.com/wutchzone/pslib-web-boilerplate#readme",
+  "dependencies": {
+    "webpack": "^3.5.4"
+  }
+}
