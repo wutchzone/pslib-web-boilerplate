@@ -4,7 +4,7 @@
   "description": "This repository cointains starting boilerplate for developing web applications.",
   "main": "src/index.js",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "repository": {
     "type": "git",
